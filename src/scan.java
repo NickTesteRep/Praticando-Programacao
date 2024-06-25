@@ -16,6 +16,6 @@ public class scan {
         double altura = scanner.nextDouble();
 
         System.out.println("Cadastro realizado com sucesso");
-        scanner.next();
+    
     }
 }
