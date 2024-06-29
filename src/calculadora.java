@@ -13,6 +13,8 @@ public class calculadora {
         int mulplica;
         float divisao;
         
+       
+       
        show.println("Digite o primeiro numero: ");
             int num1 = scan.nextInt();
        show.println("Digite o segundo numero: ");
@@ -28,6 +30,9 @@ public class calculadora {
             divisao = div1/div2;
         show.println(divisao);
         scan.close();
+
+        show.println("Digite o primeiro número da multplicação:");
+            int mult1 = scan.nextInt();
     }
 
     
