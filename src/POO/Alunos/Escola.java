@@ -1,9 +1,4 @@
-package POO;
-
-import POO.Alunos.Adriana;
-import POO.Alunos.Carlos;
-import POO.Alunos.Joao;
-import POO.Alunos.SisMatricula;
+package POO.Alunos;
 
 public class Escola {
 
